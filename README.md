@@ -1,7 +1,7 @@
 - 👋 oi,eu sou a larissa
-- 🌹 estou interessada em aprender mais sobre marketing digital
+- 🌹 estou interessada em aprender mais sobre tecnologia
 - 🌱 e estou me dedicando em aprimorar meus conhecimentos
-- 💞️ I’m looking to collaborate on ...
+- 💞️ atualmente faço curso de criaçao de sites com marketing digital
 - 📫 How to reach me ...
 
 <!---
